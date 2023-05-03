@@ -1,5 +1,9 @@
 # Compound-Interest-Calculator
-This Python program calculates your interest rates 
+#This Python program calculates your interest rates
+
+
+
+
 principle = 0
 rate = 0
 time = 0
